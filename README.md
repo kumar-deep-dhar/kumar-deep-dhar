@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kumar Deep Dhar and I'm a Soft Developer</h2>
+<h2 align="left">Hi 👋! My name is Kumar Deep Dhar and I'm a Software Developer</h2>
 
 ###
 

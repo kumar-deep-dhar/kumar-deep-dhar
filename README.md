@@ -42,4 +42,4 @@
 
 ###
 
-<a href="https://app.daily.dev/kumardeepdhar"><img src="https://api.daily.dev/devcards/v2/g9el03d0I3Zc18NJw9X2O.png?r=96g&type=wide" width="652" alt="Kumar Deep Dhar's Dev Card"/></a>
+<a href="https://app.daily.dev/kumardeepdhar"><img src="https://api.daily.dev/devcards/v2/g9el03d0I3Zc18NJw9X2O.png?r=96g&type=default" width="356" alt="Kumar Deep Dhar's Dev Card"/></a>
